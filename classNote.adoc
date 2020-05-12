@@ -1,0 +1,14 @@
+Java 8 Salient Features
+========================
+
+[a] Lambda Expressions
+[b] Functional Interface
+[c] Default Methods in interfaces
+[d] Static Methods in interfaces
+[e] Predefined Functional interfaces 
+        (i) Predicate
+        (ii) Functiona
+        (iii) Consumer
+[f] Method Reference and Constructor Reference using double Colon {::} operator
+[g] Stream API
+[h] Date and Time API (JODA API)
