@@ -12,3 +12,11 @@ Java 8 Salient Features
 [f] Method Reference and Constructor Reference using double Colon {::} operator
 [g] Stream API
 [h] Date and Time API (JODA API)
+
+Key advantages of Java 8
+========================
+1. To simplify programming.
+2. To get benefits of functional programming in Java.
+3. Java remains an object oriented programming - we just use Lambda Expressions
+to utilize the functional programming benefits.
+4. To enable parallel processing in Java to write code that can run on multiple processors.
